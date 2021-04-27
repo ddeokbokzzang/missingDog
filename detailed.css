@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <link rel="stylesheet" href="./mainview.css" />
+    <link rel="stylesheet" href="../common/reset.css" />
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Missing Dog | INFO</title>
+  </head>
+  <body>
+      <style>
+          body{
+              background-color: yellow;
+          }
+          .img3{
+        position: relative;
+        left:1100px;
+          }
+          .box{
+              background-color: white;
+              width: 1050px;
+              height: 450px;
+              margin-left: 100px;
+              position: relative;
+                  
+          }
+          
+          .img2{
+              width:35px;
+              margin-left:300px;
+          }
+          .img1{
+              width:35px;
+              margin-left:300px;
+          }
+          .img4{
+              width:35px;
+              margin-left:300px;
+          }
+          
+        .right{
+            margin-left:300px;
+            margin-top:-300px;
+           
+        }
+        .detail{
+            margin:40px;
+            margin-top:50px;
+            margin-left:300px;
+        }
+        
+         .img5{
+             width:500px;
+             margin-left:30px;
+             margin-top: 50px;
+         }
+         .title{
+             margin-left: 300px;
+             margin-top:-360px;
+             font-size: 25pt;
+             
+           
+         }
+        
+      </style>
+  -->
+  </body>
+</html>
